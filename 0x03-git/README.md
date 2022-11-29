@@ -1,1 +1,1 @@
-My second readme
+Training session2
